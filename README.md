@@ -1,6 +1,6 @@
 # myResume
 
-Link of the website :https://sayalipimpaleresume.netlify.app/
+Link of the website : https://sayalipimpaleresume.netlify.app/
 
 GitHub Repo of Project : https://github.com/SayaliPimpale/myResume
 
