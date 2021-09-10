@@ -10,8 +10,8 @@ Description : This is project about the my Resume.
 
 Technologies Used : HTML and CSS.
 
-Features : -It has link of linkedin.You can directly go to my linkedin profile.
-           -It is easily accesable for information.
+Features : -It has link of LinkedIn.You can directly go to my LinkedIn profile.
+           -It is easily accessible for information.
 
 How to use it : Double click on the index.html you can see the code of project and double click on the website link you can go directly to the website page.
 
